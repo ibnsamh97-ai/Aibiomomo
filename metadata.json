@@ -1,0 +1,6 @@
+{
+  "name": "بايوڤيرس صوت | محول النصوص إلى اللهجة العراقية",
+  "description": "استوديو تحويل النصوص التعليمية والدرامية إلى صوت باللهجة العراقية باستخدام الذكاء الاصطناعي، مع مشاهد تفاعلية لنص الأنسجة النباتية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
